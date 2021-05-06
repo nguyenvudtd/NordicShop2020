@@ -20,7 +20,7 @@
     "react-spinners-kit": "^1.9.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
-    "sanitize-html": "^1.24.0"
+    "sanitize-html": "^2.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
